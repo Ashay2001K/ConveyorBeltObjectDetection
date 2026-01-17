@@ -40,3 +40,8 @@ The project is implemented in a Jupyter Notebook and follows a clear workflow:
 1. Clone the repository
 2. Open the notebook:
 
+## Screenshots
+![One](screenshots/Output1.png)
+![two](screenshots/Output2.png)
+
+
